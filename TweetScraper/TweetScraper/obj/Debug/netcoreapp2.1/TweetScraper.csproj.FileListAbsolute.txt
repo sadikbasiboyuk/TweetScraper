@@ -1,0 +1,11 @@
+C:\Users\kerem\source\repos\TweetScraper\TweetScraper\bin\Debug\netcoreapp2.1\TweetScraper.deps.json
+C:\Users\kerem\source\repos\TweetScraper\TweetScraper\bin\Debug\netcoreapp2.1\TweetScraper.runtimeconfig.json
+C:\Users\kerem\source\repos\TweetScraper\TweetScraper\bin\Debug\netcoreapp2.1\TweetScraper.runtimeconfig.dev.json
+C:\Users\kerem\source\repos\TweetScraper\TweetScraper\bin\Debug\netcoreapp2.1\TweetScraper.dll
+C:\Users\kerem\source\repos\TweetScraper\TweetScraper\obj\Debug\netcoreapp2.1\TweetScraper.csprojAssemblyReference.cache
+C:\Users\kerem\source\repos\TweetScraper\TweetScraper\obj\Debug\netcoreapp2.1\TweetScraper.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\TweetScraper\TweetScraper\obj\Debug\netcoreapp2.1\TweetScraper.AssemblyInfoInputs.cache
+C:\Users\kerem\source\repos\TweetScraper\TweetScraper\obj\Debug\netcoreapp2.1\TweetScraper.AssemblyInfo.cs
+C:\Users\kerem\source\repos\TweetScraper\TweetScraper\bin\Debug\netcoreapp2.1\TweetScraper.pdb
+C:\Users\kerem\source\repos\TweetScraper\TweetScraper\obj\Debug\netcoreapp2.1\TweetScraper.dll
+C:\Users\kerem\source\repos\TweetScraper\TweetScraper\obj\Debug\netcoreapp2.1\TweetScraper.pdb

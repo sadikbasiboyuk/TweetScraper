@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetScraper", "TweetScraper\TweetScraper.csproj", "{A615F808-E22B-4C3D-926B-1A427509E6B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A615F808-E22B-4C3D-926B-1A427509E6B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A615F808-E22B-4C3D-926B-1A427509E6B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A615F808-E22B-4C3D-926B-1A427509E6B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A615F808-E22B-4C3D-926B-1A427509E6B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {126B00E1-F491-4F0D-B086-E74A011CDB80}
+	EndGlobalSection
+EndGlobal
